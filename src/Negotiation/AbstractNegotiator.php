@@ -1,5 +1,7 @@
 <?php
 
+/* New changes has been applied */
+
 namespace Negotiation;
 
 use Negotiation\Exception\InvalidArgument;
